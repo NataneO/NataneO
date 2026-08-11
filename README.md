@@ -1,29 +1,31 @@
 # Hello<3 # 
 If you're new here, nice to meet you! My name is Natane Oliveira.
 Welcome to this space. 
-Here, I showcase some of the projects I’ve developed. 
-I hold a Technical Degree in Information Technology from UFV, a Bachelor's Degree in Information Systems from UMESP, and I am currently pursuing a Postgraduate Specialization in Full-Stack Development at PUC Minas Virtual.
-I am passionate about the work I do, and I hope it resonates with you as well. 
+Here, I showcase some of the projects I have developed throughout my journey in technology.
 
-Here's a bit about me:
+I hold a Technical Degree in Information Technology from UFV and a Bachelor's Degree in Information Systems from UMESP. I also completed a Postgraduate Specialization in Full-Stack Development at PUC Minas Virtual and am currently pursuing a Postgraduate Specialization in UX and Human-Computer Interaction (HCI).
 
-🎓 Education:
+I am passionate about creating thoughtful, accessible, and user-centered digital experiences—and I hope my work resonates with you.
 
-* Technical Degree in Information Technology from UFV
+## Education
 
-* Bachelor's in Information Systems from UMESP
+- Technical Degree in Information Technology — UFV  
+- Bachelor's Degree in Information Systems — UMESP  
+- Postgraduate Specialization in Full-Stack Development — PUC Minas Virtual  
+- Currently pursuing a Postgraduate Specialization in UX and Human-Computer Interaction (HCI)  
 
-* Postgraduate degree in Full-Stack Development
+## Skills
 
-* Currently pursuing a postgraduate degree in UX & IHC
-
-💻 Tech Stack:
-
-* Front-End: React, Next.js, TypeScript, JavaScript
-
-* Back-End: Node.js, Express
-
-* Tools: Git, Docker, Figma
+- Front-end development and user interface implementation  
+- Design Systems, component libraries, and design tokens  
+- Responsive design, dark mode, and accessibility-aware interfaces  
+- Figma-based implementation and visual consistency  
+- React component architecture, hooks, routing, and state handling  
+- API integration, data mapping, schemas, and type-safe flows  
+- Internationalization (i18n) and interface copy  
+- Unit testing, bug fixing, and QA validation  
+- Git, GitHub, pull request reviews, and technical documentation  
+- UX thinking, interaction design, and user-centered problem-solving 
 
 🧠 Interests:
 
