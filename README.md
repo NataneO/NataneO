@@ -3,7 +3,7 @@ If you're new here, nice to meet you! My name is Natane Oliveira.
 Welcome to this space. 
 Here, I showcase some of the projects I have developed throughout my journey in technology.
 
-I hold a Technical Degree in Information Technology from UFV and a Bachelor's Degree in Information Systems from UMESP. I also completed a Postgraduate Specialization in Full-Stack Development at PUC Minas Virtual and am currently pursuing a Postgraduate Specialization in UX and Human-Computer Interaction (HCI).
+I hold a Technical Degree in Information Technology and a Bachelor's Degree in Information Systems. I also completed a Postgraduate Specialization in Full-Stack Development, and am currently pursuing a Postgraduate Specialization in UX and Human-Computer Interaction (HCI).
 
 I am passionate about creating thoughtful, accessible, and user-centered digital experiences—and I hope my work resonates with you.
 
@@ -11,8 +11,8 @@ I am passionate about creating thoughtful, accessible, and user-centered digital
 
 - Technical Degree in Information Technology — UFV  
 - Bachelor's Degree in Information Systems — UMESP  
-- Postgraduate Specialization in Full-Stack Development — PUC Minas Virtual  
-- Currently pursuing a Postgraduate Specialization in UX and Human-Computer Interaction (HCI)  
+- Postgraduate Specialization in Full-Stack Development — PUC Minas  
+- Currently pursuing a Postgraduate Specialization in UX and Human-Computer Interaction (HCI) - PUC Rio
 
 ## Skills
 
