@@ -13,7 +13,9 @@ Here's a bit about me:
 
 * Bachelor's in Information Systems from UMESP
 
-* Currently pursuing a postgraduate degree in Full-Stack Development
+* Postgraduate degree in Full-Stack Development
+
+* Currently pursuing a postgraduate degree in UX & IHC
 
 💻 Tech Stack:
 
